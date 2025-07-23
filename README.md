@@ -102,7 +102,7 @@ Este proyecto ilustra una **cadena de valor completa** desde datos brutos hasta 
 - **Modelos de Predicción:** ARIMA, Auto-ARIMA (statsmodels, pmdarima)
 - **Fuente de Datos:** Portal de datos públicos de la OCDE
 - **Formato de Acceso/Almacenamiento:** CSV
-- **Documentación:** Jupyter Notebooks
+- **Documentación:** Jupyter Notebook
 
 ---
 
