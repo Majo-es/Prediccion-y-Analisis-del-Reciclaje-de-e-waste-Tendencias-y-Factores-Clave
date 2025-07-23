@@ -106,7 +106,7 @@ Este proyecto ilustra una **cadena de valor completa** desde datos brutos hasta 
 
 ---
 
-## 📁 **ESTRUCTURA DEL PROYECTO**
+## **ESTRUCTURA DEL PROYECTO**
 
 ```
 TFM - Predicción y Análisis del Reciclaje de E-waste/
