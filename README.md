@@ -8,7 +8,7 @@
 
 📖 Lee el artículo completo en [Medium](https://medium.com/@majo_majo/más-dispositivos-más-desechos-lo-que-los-datos-revelan-sobre-el-futuro-del-e-waste-1a042ad94312) de nuestro TFM. 
 
-🌍 Nuestra presentación en [Canva](https://www.canva.com/design/DAGtL75zGRM/jmBVe6eqfHEOAqPwjIp0xA/viewutm_content=DAGtL75zGRM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd1d158a19b).
+🌍 Nuestra presentación en [Canva](https://www.canva.com/design/DAGtL75zGRM/jmBVe6eqfHEOAqPwjIp0xA/view?utm_content=DAGtL75zGRM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd1d158a19b).
 
 
 ## Propuesta de Valor: 
